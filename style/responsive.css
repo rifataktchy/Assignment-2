@@ -84,6 +84,9 @@
     .height, .weight, .age, .sex, .activity{
         width: 100%;
     }
+    .button{
+        margin-bottom: 20px;
+    }
     /* section four starts here */
     .section-four{
         height: 2220px;
